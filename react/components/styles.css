@@ -1,0 +1,48 @@
+.container
+{
+  min-width: 280px;
+}
+
+.container__item{
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  padding: 2em;
+}
+
+@media (min-width:760px){
+.container__item{
+  flex-direction: row;
+}
+}
+
+
+.container__image{
+  min-width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container__totalaizers{
+  background-color: rgb(214, 213, 213);
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  color:black;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 2em;
+  margin: 1em auto;
+}
+
+.button_continue_buy{
+  display: flex;
+  margin: auto;
+  background-color: blue;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+  text-align: center;
+  font-size: 18px;
+  color:white;
+  font-weight: 500;
+
+}
