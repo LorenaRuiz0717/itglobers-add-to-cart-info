@@ -9,7 +9,7 @@ Este componente muestra información sobre los productos agregados al carrito de
 
 ### Paso 1 - Clonar
 
-Realizar la [clonación](https://github.com/Daniela1421/itgloberspartnercl-add-to-cart-info.git) de este repositorio.
+Realizar la [clonación](https://github.com/LorenaRuiz0717/itglobers-add-to-cart-info.git) de este repositorio.
 
 ### Paso 2 - Editar el Manifest.json 
 
